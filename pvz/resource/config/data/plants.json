@@ -1,0 +1,10 @@
+{
+  "Peashooter": {
+    "name": "Peashooter",
+    "img": "plants_peashooter",
+    "hp": 300,
+    "type": 1,
+    "damage": 20,
+    "speed": 84
+  }
+}

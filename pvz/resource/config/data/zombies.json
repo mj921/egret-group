@@ -1,0 +1,13 @@
+{
+  "Zombie": {
+    "name": "Zombie",
+    "dragonBoneSkeJson": "dragonBones_Zombies_Zombie_ske_json",
+    "dragonBoneTexJson": "dragonBones_Zombies_Zombie_tex_json",
+    "dragonBoneTexPng": "dragonBones_Zombies_Zombie_tex_png",
+    "hp": 270,
+    "otherHp": 0,
+    "type": 1,
+    "damage": 100,
+    "speed": 0.29432624113475175
+  }
+}
